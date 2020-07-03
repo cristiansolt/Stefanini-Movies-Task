@@ -1,0 +1,47 @@
+body{
+    background-color:black;
+}
+li{
+    display: inline-block;
+}
+.container {
+	width: 90em;
+	overflow-x: auto;
+    white-space: nowrap;
+    overflow: auto;
+    white-space: nowrap;
+}
+.container2 {
+	width: 90em;
+	overflow-x: auto;
+    white-space: nowrap;
+    overflow: auto;
+    white-space: nowrap;
+}
+.container3 {
+	width: 90em;
+	overflow-x: auto;
+    white-space: nowrap;
+    overflow: auto;
+    white-space: nowrap;
+    margin-bottom: 60px;
+}
+h2{
+    position: absolute;
+    bottom: 90%;
+    color: white;
+}
+span{
+    color: white;
+    position: absolute;
+    font-weight: bold;
+    font-size: large;
+}
+img{
+    border: 1px solid white;
+    margin-bottom: 20px;
+}
+img:hover{
+    border-color: red;
+    transition: 0.3s;
+}
